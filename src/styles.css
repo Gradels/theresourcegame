@@ -1,0 +1,17 @@
+html {
+  font-family: sans-serif;
+  background-color: midnightblue;
+  color: lightyellow;
+}
+
+div {
+  outline: 5px double white;
+  margin: 3px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+button {
+  outline: 3px outset white;
+  background-color: navy;
+}
